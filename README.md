@@ -7,7 +7,6 @@ Firebase Live Score Flutter App
 
 ​Authentication: Secure Email/Password login for administrative control.
 ​State Management: Powered by GetX for reactive UI and efficient routing.
-​Dynamic Themes: Built-in Light and Dark theme support.
 
 ​⚙️ Setup & Installation
 1. the Repository:
